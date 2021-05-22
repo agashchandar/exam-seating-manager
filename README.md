@@ -1,6 +1,6 @@
 # Exam Seating Management System
 
-![Python](https://img.shields.io/badge/Python-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![Database](https://img.shields.io/badge/Database-SQLite-blue)
